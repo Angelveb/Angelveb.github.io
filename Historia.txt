@@ -1,5 +1,5 @@
 Esta es un ejemplo para aprender git
 
-Tengo 23 años   
+Tengo 22 años, nací en Colombia
 
 Mi gato se llama Mike
